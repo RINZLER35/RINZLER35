@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+
+I am Zachariah Hull
+
+I'm currently: A student at the Eastern Institute of Technology, NZ, working towards a Bachelor of Computing Systems. <br>
+IT areas of interest: Software development, Website development, Cybersecurity. <br>
+Have appreciation for: Clean-consistent code, Thorough documentation, Effective use of version control.
 
 <!--
 **RINZLER35/RINZLER35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +17,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
